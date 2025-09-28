@@ -21,7 +21,7 @@ fetch("https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/dado
         // Soft Skills
         const softskillsDiv = document.querySelector('.Lista-Soft-Skills');
         data.softskills.forEach(skill => {
-            const paragrafo = `<p style="font-size: 12px">${skill.nome}</p>`;
+            const paragrafo = `<p style="font-size: 14px">${skill.nome}</p>`;
             softskillsDiv.insertAdjacentHTML('beforeend', paragrafo);
         });
 
@@ -32,7 +32,7 @@ fetch("https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/dado
         data.informaçõespessoais.forEach(info => {
             const key = Object.keys(info)[0];
             const value = info[key];
-            const paragrafo = `<p class="p-0 m-0" style="font-size: 0.5rem"><strong>${key}</strong> ${value}</p>`;
+            const paragrafo = `<p class="p-0 m-0" style="font-size: 16px"><strong>${key}</strong> ${value}</p>`;
             infoPessoalDiv.insertAdjacentHTML('beforeend', paragrafo);
         });
 
