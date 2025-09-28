@@ -1,0 +1,80 @@
+{
+    "hardskills": [
+        {       
+        "nome":"linux",    
+        "icone":"https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/linux.gif"},
+    {
+      "nome": "Java",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/java.gif"
+    },
+         {
+      "nome": "Kali Linux",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/kali.png"
+    },
+        {
+      "nome": "Bash",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/bash.png"
+    },
+         {
+      "nome": "SQL",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/sql.png"
+    },{
+        "nome":"HTML",
+       "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/html.png"
+ }
+
+],
+"softSkill":[ {
+    "nome":"Trabalho em Equipe"
+    },
+    {
+        "nome":"Resiliência"
+},
+{
+    "nome":"Flexibilidade"
+},
+{
+    "nome":"comunicação"
+}
+],
+
+"Idiomas":[
+    {
+        "idioma":"portugues",
+        "icone":"https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/brazil.png"
+    },
+     {
+        "idioma":"ingles",
+        "icone":"https://github.com/BTJUNIN/Portifolio/blob/main/curriculo-M%C3%A1rcio/img/usa.png"
+    }
+
+],
+"interesses-pessoais":[
+    {
+        "nome":"aws",
+        "icone":""
+    }
+],
+"educação":[
+        {
+            "nome":"Pentest Profissional",
+            "icone":"https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/desec.png"
+        },
+        {
+            "nome":"Ensino Médio Técnico",
+            "icone":"https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/senac.png"
+        }
+],
+"portifólio":[
+    {
+        "nome":"tryhackme",
+        "icone":"https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/tryhackme.png",
+
+        
+    }
+]
+
+
+
+
+}
