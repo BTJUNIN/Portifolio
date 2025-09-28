@@ -1,0 +1,87 @@
+{
+  "hardskills": [
+    {
+      "nome": "linux",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/linux.gif"
+    },
+    {
+      "nome": "Java",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/java.gif"
+    },
+    {
+      "nome": "Kali Linux",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/kali.png"
+    },
+    {
+      "nome": "Bash",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/bash.png"
+    },
+    {
+      "nome": "SQL",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/sql.png"
+    },
+    {
+      "nome": "HTML",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/html.png"
+    }
+  ],
+  "softskills": [
+    { "nome": "Trabalho em Equipe" },
+    { "nome": "Resiliência" },
+    { "nome": "Flexibilidade" },
+    { "nome": "comunicação" }
+  ],
+  "Idiomas": [
+    {
+      "idioma": "portugues",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/brazil.png"
+    },
+    {
+      "idioma": "ingles",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/usa.png"
+    }
+  ],
+ "interessespessoais": [
+    { "nome": "aws", "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/3f75409dee0bd31d1c4edb6fbe36f3ff42d49a22/curriculo-M%C3%A1rcio/img/aws.svg" },
+    {"nome":"redes","icone":"https://img.icons8.com/fluency/50/network-gateway.png"},
+    {"nome":"hardware","icone":"https://img.icons8.com/fluency/50/server--v1.png"},
+    {"nome":"docker","icone":"https://img.icons8.com/fluency/50/docker.png"},
+    {"nome":"springboot","icone":"https://img.icons8.com/color/48/spring-logo.png"},
+    {"nome":"azure","icone":"https://img.icons8.com/fluency/50/azure-1.png"}
+  ],
+  "informaçõespessoais":[ 
+      {"nome: ": "Márcio José de Sousa Junior"},
+      {"data de nascimento: ": "07/12/2004"},
+      {"numero de celular: ": "(11)98681-8343"},
+      {"email: ":"junior227733@gmail.com"},
+      {"linkedin: ":"https://www.linkedin.com/in/marciojuniorpt/"}
+     ],
+  "educação": [
+    {
+      "nome": "Pentest Profissional",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/desec.png",
+      "link": "https://academy.desecsecurity.com/certificado/XUCX-LQIOE-ZUWS",
+      "periodo": "2022 - Nov/2023"
+    },
+    {
+      "nome": "Ensino Médio Técnico",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/senac.png",
+      "link": "#",
+      "periodo": "2020 - 2022"
+    }
+  ],
+  "portifólio": [
+    {
+      "nome": "TryHackMe",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/tryhackme.png",
+      "link": "https://tryhackme.com/p/p3c1nh4",
+      "tecnologias": "Cibersegurança"
+    },
+    {
+      "nome": "Shark Angular V2 - Projeto",
+      "icone": "https://img.icons8.com/ios-glyphs/60/github.png",
+      "link": "https://github.com/BTJUNIN/sharkAngularV2",
+      "tecnologias": "Angular - JS - CSS - HTML"
+    }
+  ]
+}
