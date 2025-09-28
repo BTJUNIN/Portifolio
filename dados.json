@@ -2,27 +2,27 @@
   "hardskills": [
     {
       "nome": "linux",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/linux.gif"
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/img/linux.gif"
     },
     {
       "nome": "Java",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/java.gif"
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/img/java.gif"
     },
     {
       "nome": "Kali Linux",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/kali.png"
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/img/kali.png"
     },
     {
       "nome": "Bash",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/bash.png"
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/img/bash.png"
     },
     {
       "nome": "SQL",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/sql.png"
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/img/sql.png"
     },
     {
       "nome": "HTML",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/img/html.png"
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/img/html.png"
     }
   ],
   "softskills": [
@@ -34,15 +34,15 @@
   "Idiomas": [
     {
       "idioma": "portugues",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/brazil.png"
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/img/brazil.png"
     },
     {
       "idioma": "ingles",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/usa.png"
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/img/usa.png"
     }
   ],
  "interessespessoais": [
-    { "nome": "aws", "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/3f75409dee0bd31d1c4edb6fbe36f3ff42d49a22/curriculo-M%C3%A1rcio/img/aws.svg" },
+    { "nome": "aws", "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/3f75409dee0bd31d1c4edb6fbe36f3ff42d49a22/img/aws.svg" },
     {"nome":"redes","icone":"https://img.icons8.com/fluency/50/network-gateway.png"},
     {"nome":"hardware","icone":"https://img.icons8.com/fluency/50/server--v1.png"},
     {"nome":"docker","icone":"https://img.icons8.com/fluency/50/docker.png"},
@@ -59,13 +59,13 @@
   "educação": [
     {
       "nome": "Pentest Profissional",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/desec.png",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/img/desec.png",
       "link": "https://academy.desecsecurity.com/certificado/XUCX-LQIOE-ZUWS",
       "periodo": "2022 - Nov/2023"
     },
     {
       "nome": "Ensino Médio Técnico",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/senac.png",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/img/senac.png",
       "link": "#",
       "periodo": "2020 - 2022"
     }
@@ -73,7 +73,7 @@
   "portifólio": [
     {
       "nome": "TryHackMe",
-      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/curriculo-M%C3%A1rcio/img/tryhackme.png",
+      "icone": "https://raw.githubusercontent.com/BTJUNIN/Portifolio/main/img/tryhackme.png",
       "link": "https://tryhackme.com/p/p3c1nh4",
       "tecnologias": "Cibersegurança"
     },

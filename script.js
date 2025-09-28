@@ -4,7 +4,7 @@
 
 //hardskills
 //https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-M%C3%A1rcio/dados.json
-fetch("https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/curriculo-marcio/data/dados.json")
+fetch("https://raw.githubusercontent.com/BTJUNIN/Portifolio/refs/heads/main/dados.json")
     .then(res => res.json())
     .then(data => {
         // Hard Skills
